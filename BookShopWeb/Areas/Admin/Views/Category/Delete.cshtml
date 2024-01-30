@@ -1,0 +1,38 @@
+﻿@model Category
+
+<div class="shadow border-1 mt-4">
+    <div class="card-header bg-secondary ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-secondary py-2">Delete Category</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <form method="post" class="row">
+            <input asp-for="Id" hidden />
+            <div class="p-3 mt-4">
+                <div class="form-floating py-3 col-12 fw-bold">
+                    <label asp-for="Name" class="ms-2"></label>
+                    <input asp-for="Name" disabled class="form-control border-0 shadow ms-2" style="background-color:#eeeeee;" />
+                </div>
+                <div class="form-floating py-3 col-12 fw-bold">
+                    <label asp-for="DisplayOrder" class="ms-2"></label>
+                    <input asp-for="DisplayOrder" disabled class="form-control border-0 shadow ms-2" style="background-color:#eeeeee;" />
+                </div>
+
+                <div class="row pt-2">
+                    <div class="col-6 col-md-3">
+                        <button type="submit" class="btn btn-danger form-control">Delete</button>
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <a asp-controller="Category" asp-action="Index" class="btn btn-outline-primary border-dark-subtle form-control">
+                            Back to List
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
