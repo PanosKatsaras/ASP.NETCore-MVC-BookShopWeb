@@ -4,7 +4,7 @@
 
 This project is an ASP.NET Core application with SQL Server Database connection,
 
-CRUD Operations and Register/Login with Email and Password credentials with use of ASP.NET Core Identity.
+CRUD Operations and Register/Login with Email and Password credentials and use of ASP.NET Core Identity.
 
 You can Create/Edit/Delete your Products or your Categories only if you are authenticated User.
 
