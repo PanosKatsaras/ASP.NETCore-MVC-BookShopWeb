@@ -17,6 +17,8 @@ ASP.NET Core
 
 Entity Framework Core
 
+Bootstrap
+
 Microsoft SQL Server 2022
 
 ## Prerequisites
