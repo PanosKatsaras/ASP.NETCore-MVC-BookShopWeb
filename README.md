@@ -29,6 +29,6 @@ Microsoft SQL Server 2022
 ## Getting Started
 To run this project locally, follow these steps:
 
-Clone this repository: git clone (https://github.com/PanosKatsaras/Blazor-.NET-InvoiceApp.git)
+Clone this repository: git clone (https://github.com/PanosKatsaras/ASP.NETCore-MVC-BookShopWeb.git)
 
 Open the project in Visual Studio 2022
