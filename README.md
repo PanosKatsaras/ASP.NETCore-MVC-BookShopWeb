@@ -9,6 +9,8 @@ CRUD Operations and Register/Login with Email and Password credentials and use o
 You can Create/Edit/Delete your Products or your Categories only if you are authenticated User.
 
 ## Technologies Used
+ASP.NET Core
+
 .NET 7
 
 Entity Framework Core
