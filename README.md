@@ -4,16 +4,18 @@
 
 ## Overview
 
-This project is an ASP.NET Core application with SQL Server Database connection,
+This project is an ASP.NET Core application with SQL Server Database connection,Repository Pattern and CRUD Operations.
 
-CRUD Operations and Register/Login with Email and Password credentials and use of ASP.NET Core Identity.
+ASP.NET Core Identity for Register/Login as default Customer User with Email and Password credentials.
 
-You can Create/Edit/Delete your Products or your Categories only if you are authenticated User.
+You can Create/Edit/Delete your Products or your Categories only if you are Admin User.
 
 ## Technologies Used
 ASP.NET Core
 
 .NET 7
+
+ASP.NET Core Identity
 
 Entity Framework Core
 
