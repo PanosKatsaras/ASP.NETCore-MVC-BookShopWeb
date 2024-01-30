@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is an ASP.NET Core application with SQL Server Database connection,Repository Pattern and CRUD Operations.
+This project is an ASP.NET Core application with SQL Server Database connection, Repository Pattern and CRUD operations.
 
 ASP.NET Core Identity for Register/Login as default Customer User with Email and Password credentials.
 
