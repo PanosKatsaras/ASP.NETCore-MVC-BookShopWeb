@@ -1,6 +1,7 @@
 # Book Shop Web
 ![book shop devices](https://github.com/PanosKatsaras/ASP.NETCore-MVC-BookShopWeb/assets/93729093/4a53b7c2-79a8-4537-9dab-f6881352c669)
 ![book shop products](https://github.com/PanosKatsaras/ASP.NETCore-MVC-BookShopWeb/assets/93729093/0ec9e236-954b-449b-8d48-efd01ef109fb)
+
 ![bookshop-products](https://github.com/PanosKatsaras/ASP.NETCore-MVC-BookShopWeb/assets/93729093/d3f43baa-d010-4923-982a-a08dc41516f2)
 
 ## Overview
